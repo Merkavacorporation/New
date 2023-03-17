@@ -1,0 +1,55 @@
+.writen{
+text-align:center;
+padding-top:110px;
+
+}
+.numbe1{
+text-align:center;
+padding-top:30px;
+padding-bottom:30px;
+}
+.numbe2{
+text-align:center;
+
+}
+
+
+.buton1{
+text-align:center;
+padding-top:30px;
+
+}
+.buton1 button{
+background-color:#00FF00;
+color:#4B0082;
+
+}
+.buto1{
+border-radius:40px;
+border:0;
+
+font-size:2rem;
+font-weight:600;
+margin:1rem 0;
+padding:2rem 3rem;
+text-transform:uppercase;
+white-space:nowrap;
+
+}
+#res{
+  background-color:white;
+  
+}
+#namer{
+ border-radius: 40px; 
+ font-size: 20px;
+  border:3px solid red;
+}
+#number1{
+  font-size: 20px;
+  border:3px solid blue;
+}
+#number2{
+  font-size: 20px;
+  border:3px solid green;
+}
